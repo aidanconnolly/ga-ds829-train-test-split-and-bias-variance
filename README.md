@@ -7,9 +7,9 @@ Unit 3 : Data Modeling | Lesson 2 : Train, Test Split &amp; Bias Variance Tradeo
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Statistics-Review-part-1.ipynb | [Here](./bias-and-variance.ipynb) |
+| Lesson | bias-and-variance.ipynb | [Here](./bias-and-variance.ipynb) |
 | Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/bias-and-variance-solution.ipynb) |
-| Datasets | Average weight of the body and the brain for 62 mammal species | [Here](./assets/dataset/mammals.txt) |
+| Datasets | Average weight of the body and the brain for 62 mammal species | [Here](./data/mammals.txt) |
 
 In this lesson, we use the Boston housing dataset (from scikit-learn) and the average weight of mammal bodies/brains. These are used because they are appropriate for linear modeling with generally intuitive features.
 
