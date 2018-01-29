@@ -13,11 +13,13 @@
 | Practice  | Train Test Split and Cross Val. Lab | [Here](./practice/)
 | Datasets | Average weight of the body and the brain for 62 mammal species | [Here](./assets/data/mammals.txt) |
 
-In this lesson, we use the Boston housing dataset (from scikit-learn) and the average weight of mammal bodies/brains. These are used because they are appropriate for linear modeling with generally intuitive features.
+> In this lesson, we use the Boston housing dataset (from scikit-learn) and the average weight of mammal bodies/brains. These datasets are used because they are appropriate for linear modeling with generally intuitive features.
 
 ---
 
 ## Learning Objectives
+
+After this lesson, students will be able to:
 - **Describe** what error due to bias is and what error due to variance is
 - **Identify** the bias-variance tradeoff
 - **Describe** what overfitting and underfitting means in the context of model building
@@ -27,9 +29,19 @@ In this lesson, we use the Boston housing dataset (from scikit-learn) and the av
 
 ---
 
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- Read into data using the Pandas library
+- Perform statistical exploration with Pandas
+- Create simple data visualizations with matplotlib
+- Define the basic parameters of sampling and experimental design
+
+---
+
 ## Lesson Outline
 
-TOTAL (170 min)
+> TOTAL (170 min)
 - Bias and Variance Trade-off (35 min)
   - Bias? Variance? (10 min)
   - Exploring the Bias-Variance Tradeoff (15 min)
@@ -51,16 +63,6 @@ TOTAL (170 min)
 
 ---
 
-## Student Requirements
-
-Before this lesson(s), students should already be able to:
-
-- Read in data using the Pandas library
-- Perform simple statistical exploration with Pandas
-- Create simple data visualizations with matplotlib
-- Understand sampling and experimental design
-
-----
 
 ## Additional Resources
 
