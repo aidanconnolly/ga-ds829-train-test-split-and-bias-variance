@@ -1,5 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Train-Test-Split-and-Bias-Variance
-Unit 3 : Data Modeling | Lesson 2 : Train, Test Split &amp; Bias Variance Tradeoff
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Train-Test-Split & Bias/Variance
+
+> Unit 3: Required
 
 ---
 
